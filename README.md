@@ -1,4 +1,4 @@
-# 🇵🇰📊 Climate, Conflict, and Casualties
+# 🇵🇰 Climate, Conflict, and Casualties 📊
 ### A Provincial Instrumental Variables Analysis of Violence in Pakistan
 
 **Muhammad Shahryar** | Knox College, Department of Economics | Class of 2026
