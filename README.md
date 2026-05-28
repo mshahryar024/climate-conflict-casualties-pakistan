@@ -36,8 +36,10 @@ This paper estimates the effect of armed conflict intensity on civilian fataliti
 - Robustness check (ACLED events as treatment): β = 2.62, p < 0.05 ✓
 
 ---
-
 ## 🗺️ Key Visualizations
+
+### Average Annual Conflict Fatalities by Province
+![Conflict Map](plots/conflict_map%20(7).png)
 
 ### Regression Coefficient Estimates
 ![Coefficient Plot](plots/coef_plot.png)
@@ -47,7 +49,6 @@ This paper estimates the effect of armed conflict intensity on civilian fataliti
 
 ### Conflict Trends — FATA, KPK, Balochistan (2009–2024)
 ![Conflict Trends](plots/conflict_trends%2001.png)
-
 ---
 
 ## 📎 Citation
