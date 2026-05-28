@@ -38,18 +38,18 @@ This paper estimates the effect of armed conflict intensity on civilian fataliti
 ---
 
 ## 🗺️ Key Visualizations
-![Conflict Map](conflict_map%20(7).png)
+plots/![Conflict Map](conflict_map%20(7).png)
 
-![Coefficient Plot](coef_plot.png)
+plots/![Coefficient Plot](coef_plot.png)
 
 ### Regression Coefficient Estimates
-![Coefficient Plot](coef_plot.png)
+plots/![Coefficient Plot](coef_plot.png)
 
 ### Conflict Fatalities by Province and Year
-![Fatalities Heatmap](fatalities_heatmap.png)
+plots/![Fatalities Heatmap](fatalities_heatmap.png)
 
 ### Conflict Trends — FATA, KPK, Balochistan (2009–2024)
-![Conflict Trends](conflict_trends%2001.png)
+plots/![Conflict Trends](conflict_trends%2001.png)
 ## 📁 Repository Structure
 ```
 ├── conflict_map (7).png
