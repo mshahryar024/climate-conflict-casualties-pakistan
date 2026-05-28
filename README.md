@@ -1,7 +1,7 @@
-# 🇵🇰 Climate, Conflict, and Casualties
+# 🇵🇰📊 Climate, Conflict, and Casualties
 ### A Provincial Instrumental Variables Analysis of Violence in Pakistan
 
-**Muhammad Shahryar** | Knox College, Department of Economics | Class of 2026  
+**Muhammad Shahryar** | Knox College, Department of Economics | Class of 2026
 Advisor: Professor Moheb Zidan | ECON 399 Senior Thesis
 
 ---
@@ -38,31 +38,16 @@ This paper estimates the effect of armed conflict intensity on civilian fataliti
 ---
 
 ## 🗺️ Key Visualizations
-plots/![Conflict Map](conflict_map%20(7).png)
-
-plots/![Coefficient Plot](coef_plot.png)
 
 ### Regression Coefficient Estimates
-plots/![Coefficient Plot](coef_plot.png)
+![Coefficient Plot](plots/coef_plot.png)
 
 ### Conflict Fatalities by Province and Year
-plots/![Fatalities Heatmap](fatalities_heatmap.png)
+![Fatalities Heatmap](plots/fatalities_heatmap.png)
 
 ### Conflict Trends — FATA, KPK, Balochistan (2009–2024)
-plots/![Conflict Trends](conflict_trends%2001.png)
-## 📁 Repository Structure
-```
-├── conflict_map (7).png
-├── coef_plot.png
-├── fatalities_heatmap.png
-├── rainfall_heatmap.png
-├── conflict_trends.png
-├── conflict_scatter.png
-├── province_bars.png
-├── lethality_trend.png
-├── plots/                    # folder (empty placeholder)
-└── README.md
-```
+![Conflict Trends](plots/conflict_trends%2001.png)
+
 ---
 
 ## 📎 Citation
