@@ -38,15 +38,23 @@ This paper estimates the effect of armed conflict intensity on civilian fataliti
 ---
 
 ## 🗺️ Key Visualizations
+![Conflict Map](conflict_map%20(7).png)
 
-### Average Annual Conflict Fatalities by Province
-![Conflict Map](plots/conflict_map.png)
+![Coefficient Plot](coef_plot.png)
 
-### Regression Coefficient Estimates
-![Coefficient Plot](plots/coefficient_plot.png)
-
----
-
+## 📁 Repository Structure
+```
+├── conflict_map (7).png
+├── coef_plot.png
+├── fatalities_heatmap.png
+├── rainfall_heatmap.png
+├── conflict_trends.png
+├── conflict_scatter.png
+├── province_bars.png
+├── lethality_trend.png
+├── plots/                    # folder (empty placeholder)
+└── README.md
+```
 ---
 
 ## 📎 Citation
